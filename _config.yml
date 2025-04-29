@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://instagram.fupg4-1.fna.fbcdn.net/v/t51.2885-19/480299978_3820229908242278_8002652809960561251_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fupg4-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEjN-KSbfu8y0Fx9KqeKjKJb2R_9sGlob28ra1iXB5cxmB_DL5RHHQkEAy5i2P1BoU&_nc_ohc=6hwh3xxeOYwQ7kNvwGcYoij&_nc_gid=o9X_X2xm8zW0-2dmPndg3w&edm=AEYEu-QBAAAA&ccb=7-5&oh=00_AfEGFuoRXhaTi0Nz2wjbVPVy9x00carMhYxAO49dVGdDeg&oe=6816784F&_nc_sid=ead929
+avatar: /assets/img/vlcsnap-2025-01-26-23h45m34s292.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
