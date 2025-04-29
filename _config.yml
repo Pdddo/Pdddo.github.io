@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Ahmad Rizky Amis # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Dont do that, dont give me hope # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://Pdddo.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: Pdddo # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Ahmad Rizky Amis
+  email: stard4c@gmail.com# change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://instagram.fupg4-1.fna.fbcdn.net/v/t51.2885-19/480299978_3820229908242278_8002652809960561251_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fupg4-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QEjN-KSbfu8y0Fx9KqeKjKJb2R_9sGlob28ra1iXB5cxmB_DL5RHHQkEAy5i2P1BoU&_nc_ohc=6hwh3xxeOYwQ7kNvwGcYoij&_nc_gid=o9X_X2xm8zW0-2dmPndg3w&edm=AEYEu-QBAAAA&ccb=7-5&oh=00_AfEGFuoRXhaTi0Nz2wjbVPVy9x00carMhYxAO49dVGdDeg&oe=6816784F&_nc_sid=ead929
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
